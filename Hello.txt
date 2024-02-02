@@ -1,4 +1,4 @@
-HALLÓ HEIMUR?
-Hello world?
-Hola Mundo?
-Hallo Welt?
+HALLÓ HEIMUR!
+Hello world!
+Hola Mundo!
+Hallo Welt!
